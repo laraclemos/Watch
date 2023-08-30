@@ -38,3 +38,12 @@ body {
     border-radius: 7px;
     letter-spacing: 3px;
   }
+
+  .clock span {
+    font-weight: bolder;
+    font-size: 60px;
+  }
+  
+  .clock span.time{
+    font-size: 10px;
+  }
